@@ -7,7 +7,6 @@
 </head>
 <body>
     <h2>Welcome to the Mathematical Application!</h2>
-    <p>This application is hosted on my EC2 instance with Public IP: &lt;EC2-Public-IP&gt;</p>
     <p>Enter two numbers and select an operation to calculate the result.</p>
 
     <form action="process_math.php" method="POST">
